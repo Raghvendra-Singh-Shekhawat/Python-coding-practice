@@ -2,7 +2,7 @@
         *   * 
           *  
         *    *  
-      *        *   '''  
+      *        *   ''' 
 
 rows = int(input("Enter the number of rows: "))
 
