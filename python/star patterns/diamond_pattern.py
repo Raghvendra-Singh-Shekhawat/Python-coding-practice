@@ -14,9 +14,9 @@ for i in range(rows-1):
     for j in range(i,rows):
         print(" ", end=" ")
     for j in range(i+1):
-        print("*", end=" ")
+        print("1", end=" ")
     for j in range(i):
-        print("*", end=" ")
+        print("2", end=" ")
     print()
 for i in range(rows):
     for j in range(i+1):
